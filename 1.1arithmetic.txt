@@ -1,0 +1,28 @@
+1.arithametic operations
+input
+a=10
+b=2
+add=a+b
+sub=a-b
+mul=a*b
+div=a/b
+mod=a%b
+fd=a//b
+ex=a**b
+print(add)
+print(sub)
+print(mul)
+print(div)
+print(mod)
+print(fd)
+print(ex) 
+sample output:
+12
+8
+20
+5.0
+0
+5
+100
+
+=== Code Execution Successful ===
