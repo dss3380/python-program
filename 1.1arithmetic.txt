@@ -16,13 +16,3 @@ print(div)
 print(mod)
 print(fd)
 print(ex) 
-sample output:
-12
-8
-20
-5.0
-0
-5
-100
-
-=== Code Execution Successful ===
